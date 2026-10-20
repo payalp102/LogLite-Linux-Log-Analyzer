@@ -64,22 +64,6 @@ Info: 5
  4.push code to gihub repository
    <img width="670" height="346" alt="image" src="https://github.com/user-attachments/assets/e4308b40-aac8-4095-8053-a764bb4d3fa2" />
 
-
- 
-## Project Output
-
-The screenshot below shows LogLite analyzing
-a sample log file and displaying the results.
-
-![LogLite Output](loglite-output.png)
-
-## Detailed Report
-
-![LogLite Report](loglite-report.png)
-
-## Project Structure
-
-![Project Structure](loglite-structure.png)
 ## How It Works
 
 1. Reads the sample log file.
